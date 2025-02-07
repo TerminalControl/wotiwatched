@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+    <channel>
+        <title>Wot I Watched - Terminal Control</title>
+        <link>https://wotiwatched.terminal-control.com</link>
+        <description>What was watched list broken up by years for Terminal Control</description>
+        <item>
+            <title>January 2025 Reviewed!</title>
+            <link>https://wotiwatched.terminal-control.com</link>
+            <description>Movies and TV shows that I have watched, have now been reviewed. Be sure to check out the list!</description>
+        </item>
+    </channel>
+
+</rss>
